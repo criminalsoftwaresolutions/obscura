@@ -6,7 +6,8 @@ Current Road Map and Goals
 1. Gemini Style Star-Shape on the bottom right corner
 2. Exif randomization
 3. Fake Lens correction with fitting Exif meta-info
-4. Fake Locations to Exif
+4. Fake locations to Exif
+4.1 if you use 1312 in location, it will use a totally random police station as a location.
 5. Distortion of images
 6. All of this Crap in but to Video
 
